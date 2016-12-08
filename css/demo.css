@@ -1,0 +1,21 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+body{
+	background-color: #F36;
+}
+#d1{
+	width: 509px;
+	height: 509px;
+	background-image: url(../image/ly-plate.png);
+}
+#d2{
+	width: 214px;
+	height: 214px;
+	background-image: url(../image/rotate-static.png);
+	position: absolute;
+	left: 146px;
+	top: 145px;
+	cursor: pointer;
+}
